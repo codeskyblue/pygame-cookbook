@@ -2,9 +2,7 @@
 更改鼠标的默认图标
 
 ![demo](demo.png)
-## CODE
-```
-![demo](demo.png)
+
 ## CODE
 ```
 import pygame
